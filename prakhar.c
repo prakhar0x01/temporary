@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-################################## BASIC QUESTIONS : loops,conditonal statements etc. ################################################
+//################################## BASIC QUESTIONS : loops,conditonal statements etc. ################################################
 
 //Write a program to calculate the area of sqaure
 int main() {
@@ -931,7 +931,7 @@ int main() {
 
 // WAP to insert an element at the end of an array
 
-######################################## STRINGS ###################################################
+//######################################## STRINGS ###################################################
 
 // Create a String first-name,last-name to store the details fo user, and print all the characters using loop.
 int main() {
@@ -1159,7 +1159,7 @@ void convertltu(char string[]) {
 
 
 
-######################################## STRUCTURES #################################################
+//######################################## STRUCTURES #################################################
 
 // WAP to store the data of 3 students
 struct student {
@@ -1295,7 +1295,7 @@ int main() {
 
 // Make a system that acan store info. of all student,teachers & admin of your college in the form of sttuctures
 
-#################################### FILE I/O #########################################
+//#################################### FILE I/O #########################################
 
 // Make a program to read 5 integers from a file.
 int main(){
@@ -1375,7 +1375,7 @@ int main(){
 // Format the information of 5 students(name,marks,course,cgpa) in a table like structure in a file.
 
 
-########################### SORTING ###################################
+//########################### SORTING ###################################
 
 // Bubble sorting
 #include <stdio.h>
@@ -1429,7 +1429,8 @@ int main() {
 }
 
 
-###########################################
+//###########################################
+
 //Function Declaration
 int volume(int l,int b,int h); // side = 4, (l,b,h) --> parameters
 
